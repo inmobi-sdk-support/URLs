@@ -1,0 +1,55 @@
+{
+  "result": [
+    {
+      "url":"https://www.google.co.in/"
+    },
+    {
+      "url":"http://www.inmobi.com/"
+    },
+    {
+      "url":"https://in.yahoo.com/"
+    },
+    {
+      "url":"http://www.iab.net/"
+    },
+    {
+      "url":"http://www.supercell.net/"
+    },
+    {
+      "url":"https://www.facebook.com/"
+    },
+    {
+      "url":"https://www.uber.com/"
+    },
+    {
+      "url":"http://www.ndtv.com/"
+    },
+    {
+      "url":"http://www.apple.com/"
+    },
+    {
+      "url":"http://www.flipkart.com/"
+    },
+    {
+      "url":"http://developer.android.com/"
+    },
+    {
+      "url":"https://developer.apple.com/"
+    },
+    {
+      "url":"https://github.com/"
+    }
+    ,
+    {
+      "url":"http://www.rediff.com/"
+    },
+    {
+      "url":"https://developers.facebook.com/"
+    },
+    {
+      "url":"http://venturebeat.com/"
+    }
+  ],
+  "refreshinterval": 60,
+  "expiry":300
+}
